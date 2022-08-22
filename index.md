@@ -1,3 +1,5 @@
+[Blog](https://hudsonnock.github.io/Blog)
+
 ## About
 
 Welcome to my website! I'm currently a second year engineerng physics student at UBC. I'm interested in many things including math, AI, philosophy, and effective altruism.
