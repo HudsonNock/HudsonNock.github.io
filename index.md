@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/HudsonNock/HudsonNock.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website! I'm currently a second year engineerng physics student at UBC. I'm interested in many things including math, AI, philosophy, and effective altruism.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Self Studying
 
-### Markdown
+Starting in early grade 12 I had lots of free time since I finished most of my courses and had the great idea to start self studying. Starting with different coding languages including java and python, it then moved onto physics topics including AP Physics C mechanics and AP Physics C eletrostatics and magnetism, and eventually ended up in pure math self studying textbooks such as "How to Prove it", "Understanding Analysis", and "Linear Algebra Done Right". Instead of covering each one of these learning experiences, I thought I'd cover the hardest step in the journey, which was studying "How to Prove it" (an introductory textbook to mathematical proofs).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This came about in the summer of grade 12 when I saw a video by Zach Star on how he self studying a university math textbook and I decided to give it a try. To ensure that I was fully understanding it, I decided to do every question in the book. 
+Compared to my past self teaching experiences, this was a big step up in difficulty eventually getting to the point where a single proof could take an hour with minimal progress, leading to me thinking that I hadn't properly learnt the material (after all the book was called "How to Prove it"). The key distintion here, which I hadn't realized at the time, was the difference between understanding the material and learning the material. When reading a chapter, I could understand the ideas the concepts and the deffinitions but to actually learn the material required the application of my understanding, which is seperate from the understanding itself. The practice questions are in essence a training data to learn patterns of proof. In this sense, if you are uanble to solve them after a decent amount of time experimenting, reading the solution would still count as learning, and a good signal that you don't understand the material is if you don't understand the solution. 
+Another common problem is how long it took to learn. In the previous topics that I self studyied it felt like the understanding was directly connected to the application of my understanding, and since I could quickly understand subjects I could get through those subjects really fast, however during this textbook I was consistently spending 8-10 hours a day doing math and yet the progress still felt slow taking a month to complete. A good stratagee to combat this is instead of treating the whole textbook as the goal that you have to overcome, if you schedule ahead of time what you want to complete each day it makes it feel as if progress is being made. Instead of looking at it as an increase of 0.1% in the total progress needed, it's a daily increase of 100% once you complete your goal for the day.
 
-```markdown
-Syntax highlighted code block
+I found one of the biggest benefits of self study is the freedom for education. Although we hear a lot that we live in a world of information and that all the knowledge is only one google seach away, for the majority of students that simply isn't true as without the skills required your education is held back by having to rely on teachers and learning alongside the class. This change of mindset gotten from self learning also changed my approach to school, I didn't see a reason why I had to only learn the subjects taught in first year engineering and so decided to audit 4 addition classes including two philosophy courses: "philosophy of mind" and "power and oppresion", aswell as two math courses: "Real Analysis" and "Real variables 2", which ended up being the classes I most enjoyed.
 
-# Header 1
-## Header 2
-### Header 3
+## Why moral philosophy should be taught throughout Highschools
 
-- Bulleted
-- List
+All humans are inheriently selfish in so far as they desire their own happiess. But instead of trying to minimize this selfishness, society embrassed it, getting it to do its bidding. This can be clearly seen as resulting in a capatalist system, where the idea behind a capatalist system is that if something will provide worth (and so happienss) to a group of humans, then the group will pay for it giving money to the buinessman, thus the buisnessman is incentivised to help the group. Notice though that the buisnessman isn't insentivised to help the group because he wants to help, but rather because of the money he can gain from helping. However, when looking at this morally it is clear that this system doesn't optimize for happiness. For example, are we to say that a famous multimillionair soccer player should get payed that much? Surely if he was paid a million dollars less and that million dollars were donated to an effective charity he would still be financially incentivised to be a scoccer player, he would be almost as happy as he was with the extra million dollars, and in addition the extra million dollars would go on to positively affect countless people. Another problem that is encountered is if there is a group that doesn't have any money, then tno one is finncially incentivised to help them as they won't make any money out of it.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Personal Projects
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HudsonNock/HudsonNock.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
