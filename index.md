@@ -2,7 +2,7 @@
 
 Welcome to my website! I'm currently a second year engineerng physics student at UBC. I'm interested in many things including math, AI, philosophy, and effective altruism.
 
-## Self Studying
+## My Experience Self Studying and What I Learned
 
 Starting in early grade 12 I had lots of free time since I finished most of my courses and had the great idea to start self studying. Starting with different coding languages including java and python, it then moved onto physics topics including AP Physics C mechanics and AP Physics C eletrostatics and magnetism, and eventually ended up in pure math self studying textbooks such as "How to Prove it", "Understanding Analysis", and "Linear Algebra Done Right". Instead of covering each one of these learning experiences, I thought I'd cover the hardest step in the journey, which was studying "How to Prove it" (an introductory textbook to mathematical proofs).
 
