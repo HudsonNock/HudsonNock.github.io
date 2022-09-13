@@ -9,6 +9,6 @@ In the future I plan to learn statistics, probability theory, and multivariable 
 
 ## Personal Projects
 
-- Created an AI to beable to identity handwritten numbers (Mnist dataset)
+- Created an AI to beable to identity handwritten numbers (Mnist dataset) [here](https://github.com/HudsonNock/MnistNeuralNetwork)
 - Coded an algorithm which can play connect 4 [here](https://github.com/HudsonNock/Connect-4-AI)
 
