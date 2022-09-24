@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to my website! I'm currently a second year engineering physics student at UBC. I'm interested in many things including math, AI, philosophy, and effective altruism.
+Welcome to my website! I'm currently a second year engineering physics student at UBC. I'm interested in many things including math, physics, AI, philosophy, and effective altruism.
 
 Currently working on gaining the fundamentals in math and physics to pursue future interests including artificial intelligence. I have self studied pure math going from real analysis to linear algebra. In the future I plan to learn statistics, probability theory, and multivariable calculus, then take a deep dive into the theory behind different types of AI.
 
